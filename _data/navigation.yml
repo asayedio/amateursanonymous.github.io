@@ -1,9 +1,0 @@
-# Belongs at: /_data/navigation.yml
-
-- title: الرئيسية
-  url: /
-- title: بـدء اجتماع
-  url: /start-a-meeting
-
-- title: مـن نحـن
-  url: /about-us
