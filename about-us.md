@@ -1,5 +1,7 @@
 ---
-layout: page
-title: /مـن نحـن
+layout: default
+title: مـن نحـن
 permalink: /about-us/
 ---
+
+## <center> مـن نـحن</center>

@@ -1,5 +1,7 @@
 ---
-layout: page
-title: /بـدء اجتماع
+layout: default
+title: بـدء اجتماع
 permalink: /start-a-meeting/
 ---
+
+## <center> بـدء اجتماع</center>
