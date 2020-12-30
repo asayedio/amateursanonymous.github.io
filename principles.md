@@ -1,10 +1,7 @@
----
-layout: default
-title: جمعية الهواة المجهولين
-permalink: /
----
+ معلومات اخري | امثلة علي المبادئ | الإجتماعات | نبذة عن الجمعية | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io/index-new)
 
-## <center> المبادئ التسعة عشر(١٩) للجمعية</center>
+## <center>مبادئ الجمعية</center>
+### <center> المبادئ التسعة عشر(١٩) للجمعية</center>
 
 ### <center>  ١-النقد</center>
 
@@ -83,7 +80,8 @@ permalink: /
 ### <center> ١٩-الخدمة</center>
 
 <center>حيث اننا وجدنا ان هناك صحوة وتطور كبير لأداءنا في حياتنا العملية من خلال تحقيق نتائج ملموسة كنتيجة لتطبيق هذه المبادئ فقد تعهدنا بمحاولة نقل هذه الرسالة إلى الأخرين ومساعدتهم  وايضا ممارسة هذه المبادئ في كل شيء في شؤوننا</center>
-<br>
-![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
+
+
+<br>![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
 [Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
 
